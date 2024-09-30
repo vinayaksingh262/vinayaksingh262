@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+# About Me:
 Hi, I'm Vinayak Singh 👋<br>I’m a final-year B.Tech student specializing in Computer Science Engineering with Cyber Security at Oriental College of Technology, Bhopal. I am passionate about building secure and scalable applications, with a focus on ethical hacking, penetration testing, and developing solutions that enhance cybersecurity.<br><br>💻 Skilled in Python<br>🌱 Currently learning advanced security protocols and DSA<br>👯 Looking to collaborate on open-source cybersecurity and development projects<br>📫 How to reach me: [vs2622003@gmail.com] or [https://www.linkedin.com/in/vinayak-singh-3799b6251/]<br>Feel free to check out my repositories and connect!
 
 
