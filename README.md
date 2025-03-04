@@ -42,19 +42,6 @@ I’m a **final-year B.Tech student** specializing in **Computer Science Enginee
 - Implemented **dynamic HSV thresholding** and fine-tuned color detection.  
 - Applied **image processing techniques** like erosion, dilation, and contour detection.  
 
----
-
-# 🎓 Certifications:
-- **Introduction to Networks** - Cisco  
-- **Python Data Structures** - Coursera  
-- **PCAP: Programming Essentials in Python** - Cisco  
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vinayaksingh262&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=vinayaksingh262&theme=shadow_blue&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaksingh262&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ### 🔝 Top Contributed Repos:
 ![](https://github-contributor-stats.vercel.app/api?username=vinayaksingh262&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)  
