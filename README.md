@@ -29,19 +29,6 @@ I’m a **final-year B.Tech student** specializing in **Computer Science Enginee
 
 ---
 
-# 🏆 Projects:
-### 1️⃣ Weather Dashboard Application 🌦️  
-**Tech Stack:** Python, Requests, MySQL, OpenWeatherMap API  
-- Built a real-time weather dashboard with **search history persistence**.  
-- **Optimized database queries** for efficient data retrieval.  
-- Enhanced user experience with **error handling and intuitive UI**.  
-
-### 2️⃣ Air Canvas 🎨  
-**Tech Stack:** Python, OpenCV, NumPy, Deque  
-- Developed a **real-time drawing application** using webcam-based color tracking.  
-- Implemented **dynamic HSV thresholding** and fine-tuned color detection.  
-- Applied **image processing techniques** like erosion, dilation, and contour detection.  
-
 
 ### 🔝 Top Contributed Repos:
 ![](https://github-contributor-stats.vercel.app/api?username=vinayaksingh262&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)  
